@@ -11,7 +11,7 @@
     },
     {
       "pattern": "https?://github.com/*",
-      "passKeys": "[gcipaws]"
+      "passKeys": "[gcipaws?]"
     }
   ],
   "filterLinkHints": false,
