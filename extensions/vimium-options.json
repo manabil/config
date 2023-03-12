@@ -21,7 +21,7 @@
   "filterLinkHints": false,
   "waitForEnterForFilteredHints": true,
   "hideHud": false,
-  "keyMappings": "# Insert your preferred key mappings here.\nmap R reload hard\nmap \\ passNextKey normal",
+  "keyMappings": "map R reload hard\nmap \\ passNextKey normal",
   "linkHintCharacters": "sadfjklewcm;gh",
   "linkHintNumbers": "0123456789",
   "newTabUrl": "about:newtab",
